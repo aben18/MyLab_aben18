@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyLabApp_aben18</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+    <string name="button_signIn">Sign In</string>
+    <string name="button_register">Register</string>
+    <string name="edit_firstName">First Name</string>
+    <string name="edit_lastName">Last Name</string>
+    <string name="edit_retypePassword">Retype Password</string>
+
+    <string name="name_success">Success!</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_blogs">Blogs</string>
+    <string name="action_link">Full Post</string>
+</resources>
